@@ -23,4 +23,8 @@ py -3.12 visualize_model.py
 5번(예측 결과 시각화)visualize_predict.py 3번 티커와 동일하게 하세요
 
 cd C:\Users\pc\Desktop\chart_ml
+
 py -3.12 visualize_predict.py --ticker soxl
+
+-------------------
+project3.bitcoin_dashboard 와는 별개입니다.
